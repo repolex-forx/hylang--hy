@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/hylang/hy/commit/219db3cf7b01353c1688af89aef3eb473905a965",
       "git:hexsha": "219db3cf7b01353c1688af89aef3eb473905a965",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T22:26:49.079032+00:00"
     },
     {
       "@id": "https://repolex.ai/r/hylang/hy/commit/6072557b6c10cd9a21145781e26ad1f978ed14b9",
