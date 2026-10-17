@@ -1,0 +1,7 @@
+[2026-10-17T22:25:08Z] === AST ITERATION 1 START | repo=hylang/hy sha=219db3cf ===
+[2026-10-17T22:25:08Z] [iter=1] PHASE START: ast repo=hylang/hy sha=219db3cf
+[2026-10-17T22:25:08Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T22:25:37Z] [iter=1] AST chunks built count=1 triples=442594
+[2026-10-17T22:25:37Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/219db3cf7b01353c1688af89aef3eb473905a965/.complete
+[2026-10-17T22:25:37Z] [iter=1] PHASE END: ast elapsed_s=29 elapsed_min=0.5
+[2026-10-17T22:25:37Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
